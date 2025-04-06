@@ -15,6 +15,8 @@ I'm **Muhammad Helmi Bin Rozain**, a 4th-year BSc student in [Intellectual Infor
 - **Programming Languages:**  
   ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
   ![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white)
+  ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+  ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
   ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
   ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
 
@@ -23,16 +25,25 @@ I'm **Muhammad Helmi Bin Rozain**, a 4th-year BSc student in [Intellectual Infor
   ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
   ![Unity](https://img.shields.io/badge/Unity-FFFFFF?style=flat&logo=unity&logoColor=black)
   ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+  ![CUDA](https://img.shields.io/badge/CUDA-76B900?style=flat&logo=nvidia&logoColor=white)
 
 - **Cloud Platforms:**  
   ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white)
   ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
 
-## Language Proficiencies
+- **Operating Systems & Shells:**  
+  ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+  ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)
 
-- **Malay:** Native Speaker
-- **English:** TOEIC Score 910
-- **Japanese:** JLPT N2
+- **Containerization & Deployment:**  
+  ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+
+## Ongoing Training
+
+I'm currently undergoing training in:
+
+- **CUDA Programming:** Enhancing skills in parallel computing using NVIDIA's CUDA platform.
+- **Docker Deployment in Linux:** Learning containerization and deployment strategies to streamline development workflows.
 
 ## GitHub Stats
 
