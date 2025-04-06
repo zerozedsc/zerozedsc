@@ -4,7 +4,7 @@
 
 ## About Me
 
-I'm **Muhammad Helmi Bin Rozain**, a 3rd-year BSc student in [Intellectual Information Engineering at Toyama University](https://www.eng.u-toyama.ac.jp/en/), Japan. My passion lies in:
+I'm **Muhammad Helmi Bin Rozain**, a 4th-year BSc student in [Intellectual Information Engineering at Toyama University](https://www.eng.u-toyama.ac.jp/en/), Japan. My passion lies in:
 
 - 🤖 **Artificial Intelligence & Machine Learning:** Delving into Generative Pre-trained Transformers (GPT) and deep learning models like Stable Diffusion.
 - 🔧 **Robotics & IoT:** Actively participating in university projects involving microcontrollers and embedded systems.
