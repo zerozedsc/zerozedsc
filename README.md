@@ -60,19 +60,4 @@ I'm currently undergoing training in:
 [![Facebook](https://img.shields.io/badge/Facebook-MuhammadHelmiRozain-1877F2?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/muhammadhelmirozain)
 [![X](https://img.shields.io/badge/X-@mized22-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://x.com/mized22)
 
-## Notable Projects
-
-- **Point-of-Sale System:** Developed a comprehensive POS system enhancing retail operations.
-- **Portfolio Website:** Designed and deployed a personal portfolio showcasing projects and skills.
-- **Unity Games:** Created engaging games using Unity and C# for various platforms.
-
-## Achievements
-
-- 🏆 **Pull Shark:** Recognized for significant pull request contributions.
-- ⚡ **Quickdraw:** Acknowledged for rapid issue resolutions.
-- 🌟 **Starstruck:** Earned stars for outstanding project repositories.
-- ❄️ **Arctic Code Vault Contributor:** Code preserved in GitHub's Arctic Vault.
-
----
-
 *Let's innovate and shape the digital landscape together!*
