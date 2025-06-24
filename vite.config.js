@@ -30,18 +30,24 @@ const rootDir = path.resolve(__dirname);
 const distDir = path.join(rootDir, "dist");
 
 const itemsToCopy = [
+  // folders
   "css",
   "fonts",
   "images",
   "js",
   "sass",
   "data",
+  // html files
+  "navbar.html",
+  "blog.html",
+  // misc files
   "tstex_modules",
   "index.html",
   "google49a38b80c3ef29c3.html",
   "robots.txt",
   "sitemap.xml",
   "_redirects",
+  
 ];
 
 const copy2Dist = () => {
