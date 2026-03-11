@@ -55,7 +55,7 @@ I'm currently undergoing training in:
 
 ## Connect with Me
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-iamhelmi.netlify.app-ff69b4?style=flat&logo=netlify&logoColor=white)](https://iamhelmi.netlify.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-iamhelmi.me-ff69b4?style=flat&logo=netlify&logoColor=white)](https://iamhelmi.me/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-HelmiRozain-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mhelmirozain/)
 [![Facebook](https://img.shields.io/badge/Facebook-MuhammadHelmiRozain-1877F2?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/muhammadhelmirozain)
 [![X](https://img.shields.io/badge/X-@mized22-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://x.com/mized22)
