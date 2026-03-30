@@ -4,7 +4,7 @@
 
 ## About Me
 
-I'm **Muhammad Helmi Bin Rozain**, a Fresh Graduate BSc student in [Intellectual Information Engineering at Toyama University](https://www.eng.u-toyama.ac.jp/en/), Japan. My passion lies in:
+I'm **Muhammad Helmi Bin Rozain**, a Fresh Graduate BSc in [Intellectual Information Engineering at Toyama University](https://www.eng.u-toyama.ac.jp/en/), Japan. My passion lies in:
 
 - 🤖 Artificial Intelligence & Machine Learning: Applying deep learning techniques — including 1D-CNNs, transformers, and explainable AI — to Raman spectral data for real-time disease detection and biomedical analysis.
 - 🔧 **Robotics & IoT:** Participated in university projects involving microcontrollers and embedded systems.
